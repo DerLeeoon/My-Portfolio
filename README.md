@@ -23,4 +23,4 @@ Zunächst möchte ich Dir einige Informationen über mich geben:
 * Instagram: DerLeeoon
 
 ### Was ich gerade höre:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r3yocjz0bge213j8wearnz35k&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=r3yocjz0bge213j8wearnz35k&redirect=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=leonardololli03)
